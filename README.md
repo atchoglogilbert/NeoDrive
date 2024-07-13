@@ -3,3 +3,6 @@ Advanced embedded system &amp; C development project with features such as a RTO
 
 ## Subject file
 https://docs.google.com/document/d/1eehwzec5uO5huPw9I_m6vhSdpnuiUYqCmYa_DYuJEUI/edit?usp=sharing
+
+## Certs
+Control Systems -> Arduino -> RTOS
