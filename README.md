@@ -5,7 +5,7 @@ Advanced embedded system &amp; C development project with features such as a RTO
 https://docs.google.com/document/d/1eehwzec5uO5huPw9I_m6vhSdpnuiUYqCmYa_DYuJEUI/edit?usp=sharing
 
 ## Certs
-Differential Equations -> Control Systems -> Arduino -> RTOS
+Differential Equations -> Control Systems + MTLB -> Arduino -> RTOS
 
 1. **Ordinary Differential Equations (ODEs)**:
    - **First-order ODEs**: Equations involving only first derivatives of the unknown function.
